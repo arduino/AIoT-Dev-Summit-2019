@@ -1,4 +1,7 @@
 # TinyML Application Development for Everyone
+
+<a href="https://armsummit.bemyapp.com"><img src="aiot-logo.png" alt="AIoT Dev Summit Logo"></a>
+
 ## Hands-on workshop at Arm AIoT Dev Summit December 2019
 
 In this tutorial we will teach a board to recognise gestures! We'll capture motion data from the [Arduino Nano 33 BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) board, import it into TensorFlow to train a model, and deploy a classifier onto the board using [TensorFlow Lite for microcontrollers](https://www.tensorflow.org/lite/microcontrollers/overview). 
