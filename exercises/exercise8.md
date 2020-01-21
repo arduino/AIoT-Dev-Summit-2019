@@ -4,7 +4,7 @@
 
 Now that we the code can recognize gestures, let's try printing out some emojis in addition to the text.
 
-Open __AIoT-Dev-Summit-2019/ArduinoSketches/IMU_Classifier/IMU_Classifier.ino__ in the Arduino IDE if it's not already loaded.
+Open __tinyml-workshop/ArduinoSketches/IMU_Classifier/IMU_Classifier.ino__ in the Arduino IDE if it's not already loaded.
 
 Create a new char* array named `EMOJIS`. Inside the array defines the emojis as a UTF-8 encoded unicode strings. This array must be the same length at the `GESTURE` array. The order of the emojis in the array must match the order of the gestures.
 

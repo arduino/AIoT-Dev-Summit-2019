@@ -33,6 +33,6 @@ Now you are ready to build a keyboard. Create a new sketch in the Arduino IDE. C
 
 ### Note
 
-__NOTE:__ once you load code that runs the USB Keyboard, the Arduino IDE might not be able to see the serial port when you want to load new code. Double click the reset button on the Nano 33 BLE Sense before you run __Sketch -> Upload__.
+__NOTE:__ once you load code that runs the USB Keyboard, the Arduino IDE might not be able to see the serial port when you want to load new code. Double click the reset button on the Nano 33 BLE before you run __Sketch -> Upload__.
 
 Next [Exercise 10: Next Steps](exercise10.md)
