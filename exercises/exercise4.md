@@ -2,7 +2,7 @@
 
 The next step is to use an Arduino program you downloaded in [Exercise 2](exercise2.md) to capture motion data from the IMU.
 
-1. Open __AIoT-Dev-Summit-2019/ArduinoSketches/IMU_Capture/IMU_Capture.ino__ in the Arduino IDE.
+1. Open __tinyml-workshop/ArduinoSketches/IMU_Capture/IMU_Capture.ino__ in the Arduino IDE.
 1. Compile the sketch and upload it to the board: `Sketch -> Upload`
 1. Open the Serial Monitor: `Tools -> Serial Monitor`
 1. Shake the board. The change in acceleration will start recording data from the IMU in the Serial Monitor

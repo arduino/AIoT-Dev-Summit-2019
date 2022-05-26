@@ -80,7 +80,7 @@ What you know -> | Supervised Learning | -> What you want to know
 
 Running ML models on microcontrollers. Low power, below 1 mW.
 
-## Arduino Nano 33 BLE Sense board
+## Arduino Nano 33 BLE board
 
 Based on the Nordic nRF52840
 * Arm Cortex-M4F running at 64 MHz
@@ -90,8 +90,8 @@ Based on the Nordic nRF52840
 
 Onboard Sensors
 * IMU (measure motion: acceleration, gyro)
-* Temperature, pressure, humidity, light, color
-* PDM microphone
+
+This workshop also works on the Arduino Nano 33 BLE Sense board. The Sense version of the board adds additional sensors: temperature, pressure, humidity, light, color, PDM microphone.
 
 ## What is an IMU?
 
@@ -104,7 +104,6 @@ This board uses the ST Micro LSM9DS1.
 * Magnetometer - which measures the power and direction of magnetic fields
 
 We're only using the accelerometer and gyroscope for this project.
-
 
 ## Workshop
 
@@ -123,7 +122,6 @@ We're only using the accelerometer and gyroscope for this project.
 * ML is also “cool”, that’s why we’re all here today? Why not try it out!
 
 ## IMU input data
-
 
 The Arduino library enables the sensor to report 119 data points every second, this means a new set of data is received every 8.4ms
 

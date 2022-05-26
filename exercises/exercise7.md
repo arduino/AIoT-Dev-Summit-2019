@@ -1,6 +1,6 @@
 # Exercise 7: Classifying IMU Data
 
-1. Open __AIoT-Dev-Summit-2019/ArduinoSketches/IMU_Classifier/IMU_Classifier.ino__ in the Arduino IDE.
+1. Open __tinyml-workshop/ArduinoSketches/IMU_Classifier/IMU_Classifier.ino__ in the Arduino IDE.
 1. Switch to the model.h tab
 1. Replace the contents of model.h with the version you downloaded from Colab
 1. Upload the sketch: `Sketch -> Upload`

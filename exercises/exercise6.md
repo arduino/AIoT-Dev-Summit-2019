@@ -18,7 +18,7 @@ You can enable 3rd party cookies, or better yet, add an exception for `[*.]googl
 
 Open the [arduino_tinyml_workshop.ipynb](../arduino_tinyml_workshop.ipynb) notebook in Google Colab and follow the instructions in the notebook to prepare the data and train the model.
 
-https://colab.research.google.com/github/arduino/AIoT-Dev-Summit-2019/blob/master/arduino_tinyml_workshop.ipynb
+https://colab.research.google.com/github/don/tinyml-workshop/blob/master/arduino_tinyml_workshop.ipynb
 
 
 Next [Exercise 7: Classifying IMU Data](exercise7.md)
